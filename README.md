@@ -1,2 +1,3 @@
 # gitSkills
 ZYJ
+GSS
