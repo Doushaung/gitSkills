@@ -1,2 +1,2 @@
 # gitSkills
-ZIJ
+ZYJ
