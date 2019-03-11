@@ -1,3 +1,2 @@
 # gitSkills
-ZYJ
-GSSDDDD
+ZYGSSDDDD
